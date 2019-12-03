@@ -1,6 +1,6 @@
 # ImproveGan-pytorch
 Improved Techniques for Training GANs for cifar10 dataset  
-This is an implementation of Semi-supervised generative adversarial network in the paper Improved Techniques for Training GANs for Mnist dataset.  
+This is an implementation of Semi-supervised generative adversarial network in the paper Improved Techniques for Training GANs for cifar10 dataset.  
 # Related  
 Origin paper:https://arxiv.org/abs/1606.03498  
 Official Implementation(Theano):https://github.com/openai/improved-gan  
