@@ -13,5 +13,8 @@ torchvision
 python3 train.py  
 Default Set:config.py
 # Result  
+Test best acc:78.6% .Achieve the accuracy of the original paper.
+# loss curve  
+# Trian process of Gen img  
 
 
