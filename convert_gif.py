@@ -31,11 +31,11 @@ def main(paths,start=None,end=None):
     """
     paths: target dir
     """
-    pic_list = get_list(or_path)
+    pic_list = get_list(paths)
     gif_name = "result.gif" 
     duration_time = 0.2 #duration time
     # create gif
-    create_gif(or_path,pic_list[start:end], gif_name, duration_time)
+    create_gif(paths,pic_list[start:end], gif_name, duration_time)
 
 if __name__ == '__main__':
     """
