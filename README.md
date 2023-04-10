@@ -20,7 +20,7 @@ Test best acc:**79.64%** .Achieve the accuracy of the original paper.
 ![](./results/loss.png)
 ![](./results/unloss.png)
 ![](./results/gen_loss.png)
-# Trian process of Gen img  
+# Train process of Gen img  
 ![image](./results/result.gif)
 
 
